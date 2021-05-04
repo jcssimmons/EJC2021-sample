@@ -1,7 +1,7 @@
-var man_jur = "LA";
+var man_jur = "NC";
 var appBase = "https://afterpattern.com/marketplaces/ejc-legal-apps?nsmi_codes[]=";
 var appCodes = ["CO-00-00-00-00","CO-01-00-00-00","FA-00-00-00-00","FA-04-00-00-00","HO-00-00-00-00","HO-02-00-00-00","HO-05-00-00-00","HO-06-00-00-00"];
-var bearer = "8c9364cdd6e949a8afdab7d7722a81e919b060a6778a4d6cabb41510ab146a64";
+var bearer = "9b382b164a6a49b2b1b948440ae2bf524b5fb644c71148f286b9505e8fc67839";
 
 window.scrollTo(0,0)
 
